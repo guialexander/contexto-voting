@@ -17,9 +17,9 @@ const VoteIndidual = () => {
       <div key= {candidate.id}>
         <div className='resultCandidate'>
           {(filter === 'num')?
-          (<p>{candidate.name} --> {candidate.votes} </p>)
+          (<p>{candidate.name} -- {candidate.votes} Votes</p>)
         :
-         (<p>{candidate.name} --> {candidate.percentage.toFixed(2)}  %</p>) }
+         (<p>{candidate.name} -- {candidate.percentage.toFixed(2)}  %</p>) }
         </div>
       </div>
       
