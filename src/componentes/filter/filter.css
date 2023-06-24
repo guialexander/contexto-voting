@@ -1,0 +1,25 @@
+.filter-container{
+    display: flex;
+    flex-direction: column;
+    background-color: lightcyan;
+    height: 100%;
+    text-align:center ;
+}
+.filter-container_input{
+    background-color:lightblue;
+    border: 1px solid black;
+    margin-bottom: 1em;
+    text-align: center;
+    font-size: 1.5em;
+}
+
+.totalvotes{
+    background-color:lightblue ;
+    font-size: 1.5em;
+    font-weight: bold;
+}
+
+.total-color{
+    font-size: 1.8em;
+    background-color: lightseagreen;
+}
