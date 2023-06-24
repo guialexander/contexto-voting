@@ -27,7 +27,8 @@ it was divided into different folders to have a code easier to adjust and reuse.
 
 ### Screenshot
 
-![]()
+![]()![context](https://github.com/guialexander/contexto-voting/assets/71296562/0ef262eb-ef0e-4b1e-95c3-c2201280bf85)
+
 
 ## My process
 
